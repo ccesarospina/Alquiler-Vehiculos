@@ -5,13 +5,13 @@ import javax.swing.JOptionPane;
 public class Calcular {
 
     //private int dias_alquiler;
-    private double vlr_base = 50000;
-    private double vlr_auto = 1500;
-    private double vlr_micro = 1500;
-    private double vlr_vehcarga = 2000;
-    private double vlr_camion = 4000;
+    private double vlr_base = 80000;
+    private double vlr_auto = 21000;
+    private double vlr_micro = 18000;
+    private double vlr_vehcarga = 34000;
+    private double vlr_camion = 45000;
     public double vlr_total = 0;
-    public double Carro50t = 5000;
+    public double Carro50t = 3200;
     
 
     public double vehiculo(double _diasalq) {
